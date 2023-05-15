@@ -1,6 +1,15 @@
 <p align="center">
   <img width="75%" src='https://github.com/BCImonk/BCImonk/blob/main/giphy.gif'>
 </p></br>
+<p align="center">
+Welcome to my github profile , here you can discover what makes me tick 🕣 and why I love coding so much 😄!
+
+I was drawn to programming 💻 because it's like having a magic wand 🪄 that allows me to create anything I can dream up. Plus, let's be honest, it's a great way to stave off boredom 😙. I thrive on challenges that require me to think outside the box and come up with unique and sometimes downright wacky solutions 😄.
+
+But my true love 😍? Machine learning! There's something magical about teaching a computer 🖥️ or robot 🤖 to learn and think like a real-life being. It's like playing god :godmode:, but without all the pesky ethical dilemmas 😆.
+
+So if you're as passionate about coding and machine learning as I am 😤, let's join forces and create something amazing together 🥇! And if you have any tips 🖊️ or tricks to make my code even better, don't hesitate to share them ☺️. Let's make the digital world a better place, one line of code at a time 🥳!
+</p>
 
 # Connect With Me On 🔥:</br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshit-singh-bciandcoding/)</br></br>
