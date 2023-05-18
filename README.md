@@ -4,7 +4,7 @@
 <p align="center">
 Welcome to my github profile , here you can discover what makes me tick 🕣 and why I love coding so much 😄!
 
-I was drawn to programming because it's like having a magic wand that allows me to create anything I can dream up. Plus, let's be honest, it's a great way to stave off boredom,. I thrive on challenges that require me to think outside the box and come up with unique and sometimes downright wacky solutions .
+I was drawn to programming because it's like having a magic wand that allows me to create anything I can dream up. Plus, let's be honest, it's a great way to stave off boredom. I thrive on challenges that require me to think outside the box and come up with unique and sometimes downright wacky solutions .
 
 But my true love ? Machine learning! There's something magical about teaching a computer or robot to learn and think like a real-life being. It's like playing god, but without all the pesky ethical dilemmas .
 
